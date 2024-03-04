@@ -1,0 +1,54 @@
+.brand-link:hover {
+    color: #007bff !important;
+    text-decoration: none;
+}
+
+.futbal {
+    font-size: 20px;
+    margin-left: 12px;
+}
+
+.futballp {
+    margin-left: 6px !important;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #007bff !important;
+    border: 1px solid #007bff !important;
+    border-color: #006fe6 !important;
+}
+
+.optionone {
+    display: flex;
+}
+
+.optionone label {
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+
+.modal-message {
+    color: #000000;
+    padding: 0px 35px 10px 10px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    text-align: right;
+}
+
+.customselect {
+    margin-left: -15px;
+}
+
+.customlabel {
+    display: flex;
+}
+
+.gameselect {
+    margin-left: 32px;
+    margin-top: 10px;
+
+}
+
+.gameselect .select2-search__field {
+    padding-left: 10px !important;
+}
